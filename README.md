@@ -1,3 +1,3 @@
 # open-source-models
 
-Models from the [McGuitre Computer Graphics Archive](http://casual-effects.com/data/index.html)
+Models from the [McGuire Computer Graphics Archive](http://casual-effects.com/data/index.html)
